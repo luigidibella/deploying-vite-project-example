@@ -70,7 +70,7 @@ img:hover {
   position: absolute;
   border: 0;
   border-radius: 50%;
-  background-image: url('https://www.seekpng.com/png/detail/4-44144_rick-and-morty-portal-png.png');
+  background-image: url('../../assets/img/rick-and-morty-portal-png.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-color: #f6f6f6;
